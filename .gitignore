@@ -1,0 +1,33 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+#built application files
+build
+*/build/
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+
+# Android Studio
+gradle
+
+# IntelliJ IDEA project files (Android Studio may generate sometimes)
+*.iml
+.idea

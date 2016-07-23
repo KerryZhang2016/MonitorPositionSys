@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<litepal>  
+    <dbname value="location" ></dbname>
+  
+    <version value="1" ></version>
+  
+    <list>  
+        <mapping class="com.bupt.monitorpositionsys.db.Path"></mapping>
+        <mapping class="com.bupt.monitorpositionsys.db.PathDetail"></mapping>
+    </list>
+</litepal>  
